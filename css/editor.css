@@ -1,0 +1,8 @@
+.ask-expert-block {
+  padding: 1em;
+  background-color: #f1f1f1;
+}
+
+.ask-expert-block__user .components-base-control__label {
+  display: block;
+}

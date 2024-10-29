@@ -1,0 +1,63 @@
+.ask-expert-block {
+  margin-bottom: 1em;
+  padding: 25px 25px 30px 25px;
+}
+
+.ask-expert-block__header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 40px;
+}
+
+.ask-expert-block__user {
+  display: flex;
+  align-items: center;
+}
+
+.ask-expert-block__user-image-wrapper {
+  flex-shrink: 0;
+  margin-right: 20px;
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+.ask-expert-block__user-info {
+  line-height: 1.2;
+}
+
+.ask-expert-block__user-badge {
+  display: inline-block;
+  margin-bottom: 12px;
+  padding: 5px 14px;
+  border-radius: 5px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.ask-expert-block__button-wrapper {
+
+}
+
+.ask-expert-block__button {
+  display: inline-block;
+  padding: 12px 36px;
+  border-radius: 5px;
+  text-decoration: none;
+  line-height: 1.2;
+}
+
+.ask-expert-block__user-image-wrapper img.avatar {
+  height: auto;
+  width: auto;
+}
+
+@media (max-width: 575px) { 
+
+  .ask-expert-block__header {
+    flex-direction: column;
+  }
+
+  .ask-expert-block__user {
+    margin-bottom: 40px;
+  }
+}

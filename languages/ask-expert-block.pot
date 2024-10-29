@@ -1,0 +1,107 @@
+# Copyright (C) 2021
+# This file is distributed under the same license as the Ask The Expert Block.
+
+#. Plugin Name of the plugin
+msgid "Ask The Expert Block"
+msgstr ""
+
+#. Description of the plugin
+msgid "Encourage conversation in your blog comments with the easy-to-use block."
+msgstr ""
+
+#: ask-expert-block.php:141
+msgid "Ask The Expert Block error: User is not defined."
+msgstr ""
+
+#: ask-expert-block.php:178
+#: ask-expert-block.php:192
+msgid "Ask The Expert Block Settings"
+msgstr ""
+
+#: js/block.js:21
+msgid "Expert Block"
+msgstr ""
+
+#: js/block.js:39
+msgid "Ask me"
+msgstr ""
+
+#: js/block.js:43
+msgid "Ask a Question"
+msgstr ""
+
+#: js/block.js:116
+msgid "Loading..."
+msgstr ""
+
+#: js/block.js:134
+msgid "User"
+msgstr ""
+
+#: js/block.js:145
+msgid "Text Badge"
+msgstr ""
+
+#: js/block.js:154
+msgid "Text Button"
+msgstr ""
+
+#: js/block.js:163
+msgid "Text"
+msgstr ""
+
+#: js/block.js:174
+msgid "Text size"
+msgstr ""
+
+#: js/block.js:186
+msgid "Background color"
+msgstr ""
+
+#: js/block.js:199
+msgid "Text color"
+msgstr ""
+
+#: js/block.js:210
+msgid "User image size"
+msgstr ""
+
+#: js/block.js:223
+msgid "User name text size"
+msgstr ""
+
+#: js/block.js:235
+msgid "User description text size"
+msgstr ""
+
+#: js/block.js:247
+msgid "User name color"
+msgstr ""
+
+#: js/block.js:258
+msgid "User description color"
+msgstr ""
+
+#: js/block.js:269
+msgid "Badge text size"
+msgstr ""
+
+#: js/block.js:281
+msgid "Badge color background"
+msgstr ""
+
+#: js/block.js:292
+msgid "Badge color text"
+msgstr ""
+
+#: js/block.js:303
+msgid "Button text size"
+msgstr ""
+
+#: js/block.js:315
+msgid "Button color background"
+msgstr ""
+
+#: js/block.js:326
+msgid "Button color text"
+msgstr ""
